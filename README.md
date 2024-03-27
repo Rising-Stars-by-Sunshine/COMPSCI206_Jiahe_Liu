@@ -6,8 +6,8 @@
 <h3 align="center">A Passionate Sophomore in Computer Science 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/username">
-    <img src="https://img.shields.io/github/followers/username?label=Follow&style=social">
+  <a href="https://github.com/Ritazwonderland">
+    <img src="https://img.shields.io/github/followers/Ritazwonderland?label=Follow&style=social">
   </a>
 </p>
 
