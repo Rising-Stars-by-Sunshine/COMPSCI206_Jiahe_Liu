@@ -1,8 +1,5 @@
 # COMPSCI206_Jiahe_Liu
 ![7](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b5848067-949b-404a-8777-80a0071e0249)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/branch/header-image.png" alt="Banner with Jiahe Liu Name">
-</p>
 
 <h1 align="center">Hi there 👋, I'm Jiahe Liu</h1>
 
