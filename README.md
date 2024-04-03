@@ -17,7 +17,7 @@
 I'm Jiahe Liu, a Computer Science sophomore with a knack for problem-solving and an enthusiast of technology and innovation. As an INTP, I thrive in logical analysis and enjoy taking an exploratory and theoretical approach to my studies.
 
 ### 🎓 Education:
-- Sophomore studying Computer Science
+- Sophomore studying Computer Science @DKU
 - Currently diving deep into the realms of Python, Java, HTML, and CSS
 
 ### 💡 Technical Skills:
