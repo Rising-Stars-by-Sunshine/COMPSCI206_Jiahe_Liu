@@ -24,3 +24,5 @@ I'm Jiahe Liu, a Computer Science sophomore with a knack for problem-solving and
 
 ```python
 languages = ["Python", "Java", "HTML", "CSS"]
+
+https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/blob/7fafd0904299a6fd1172ec06d7989dc214e90e96/CSEcon/README.md
