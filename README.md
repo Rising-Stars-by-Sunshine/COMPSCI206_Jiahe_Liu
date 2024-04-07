@@ -26,6 +26,7 @@ I'm Jiahe Liu, a Computer Science sophomore with a knack for problem-solving and
 languages = ["Python", "Java", "HTML", "CSS"]
 ```
 
+This repository is for assignments from ECON 206: Computational Microeconomics at Duke Kunshan University in Spring 2024, taught by Prof. Luyao Zhang. This course is at the interplay of economics and computer science that utilizes computational techniques to operationalize economic problems.
 
 [CSEcon](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/blob/7fafd0904299a6fd1172ec06d7989dc214e90e96/CSEcon/README.md)
 
