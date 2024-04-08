@@ -2,8 +2,7 @@
 
 ## Part 1: Exploring Intersections
 
-### **When computer science meets economics: Who do you truly want to become?**
-Pick one of your favorite Nobel Prize winners ([Nobel Prize](https://www.nobelprize.org/)) and Turing Award winners ([Turing Award](https://amturing.acm.org/)). How do you want to contribute to the intersection of the two north stars to advance human civilizations?
+### **When computer science meets economics**
 
 I may choose to follow in the footsteps of Herbert Simon and Leslie Lamport. The Nobel Prize winner, Herbert Simon, was the person who laid the foundation for computational models that simulate human behavior in economics. The Turing Award winner, Leslie Lamport, is known for his work on algorithms in distributed computing that support flexible and efficient economic systems, such as blockchain technology.
 
@@ -12,7 +11,6 @@ What I might do is design an algorithm that provides a regulation method that el
 ---
 
 ### **CS & Econ for a Better Future**
-How do you perceive the synergy between computer science and economics as a catalyst for steering innovation toward a brighter future? Please present a foundational assertion, followed by multiple specific instances that support your claim, including a reference to a topic discussed at the colloquium on Friday, March 22.
 
 I think the combination of computer science and economics, especially in the implementation of blockchain technology, will foster a more secure and effective trading system.
 
@@ -23,7 +21,6 @@ Learning from all the above, I look forward to more computational technologies b
 ---
 
 ### **Beyond CS & Econ**
-How are aspects of human nature, like bounded rationality, and pioneering technologies, such as generative AI, reshaping the dynamics between humans and AI agents in strategic contexts? Additionally, how might this interplay be perceived and conceptualized distinctively from current models? Address this inquiry by drawing upon the literature covered in our lectures and supplementary scholarly works, ensuring to include in-text citations and a comprehensive bibliography.
 
 When humans are using AI agents for decision-making, transparency might be challenging in evaluating their reliability. Generally speaking, although AI might be more rational than humans, according to Chen et. al (2023), the ability of AI is limited. According to Fan et. al (2023), LLMs fail to catch uncommon preferences and may not accurately apply refined beliefs when taking action. Zhou et. al (2024) expressed similar concerns, stating that LLM cannot grasp market intricacies and has intrinsic bias. AI may also fail to consider human psychology and some other factors when involved in activities. Thus, the adaptation of AI decisions should be under human supervision. However, AI decision-making is not transparent, which makes it challenging for a human to evaluate their results. This requires the AI agents to be frequently tested and evaluated to ensure their stability and efficiency.
 
