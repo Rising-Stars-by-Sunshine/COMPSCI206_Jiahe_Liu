@@ -6,6 +6,8 @@ I may choose to follow in the footsteps of Herbert Simon and Leslie Lamport. The
 
 What I might do is design an algorithm that provides a regulation method that eliminates the horseracing dilemma among individuals in the Bitcoin trading system. To reach an effective algorithm, creating a computational model that predicts how individuals behave in blockchain networks is a must. The model should understand participants in both rational and irrational ways. On one hand, it should include game theory principles to simulate interactions among multiple parties, including miners, users, and developers. It should also incorporate economic analysis to predict the influence of external changes in market conditions, such as fluctuations in the price or changes in the regulatory environment. Moreover, it should include human psychology as one of the factors as well. The ultimate goal is to work out a strategy that effectively addresses the horseracing problem, which would hopefully reduce energy consumption and convert Bitcoin into an eco-friendly trading system.
 
+![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/7add1e26-d07b-457e-ba27-b3f157ed2b9d)
+
 ---
 
 ### **CS & Econ for a Better Future**
