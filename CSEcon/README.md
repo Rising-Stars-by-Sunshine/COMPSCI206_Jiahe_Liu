@@ -1,7 +1,5 @@
 # Reflection on Computer Science, Economics, and AI
 
-## Part 1: Exploring Intersections
-
 ### **When computer science meets economics**
 
 I may choose to follow in the footsteps of Herbert Simon and Leslie Lamport. The Nobel Prize winner, Herbert Simon, was the person who laid the foundation for computational models that simulate human behavior in economics. The Turing Award winner, Leslie Lamport, is known for his work on algorithms in distributed computing that support flexible and efficient economic systems, such as blockchain technology.
