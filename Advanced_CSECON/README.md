@@ -4,15 +4,15 @@ Data analysis is stressed in experimental economics. For behavioral game researc
 
 I will develop software based on oTree with the following modifications to improve it:
 
-1: Supporting Multiple Sessions Simultaneously:
+**1: Supporting Multiple Sessions Simultaneously:**
 
 **Importance:** Efficiency and Scalability: The ability to run multiple sessions concurrently significantly enhances the efficiency and scalability of experimental studies. By conducting several sessions simultaneously, researchers can gather data from larger participant samples within a shorter timeframe. This scalability is crucial for achieving robust statistical power and generalizability in strategic interaction studies, as it allows researchers to capture a broader range of behaviors and responses across diverse populations.
 
-2: Automatic Generation of Different Scenarios:
+**2: Automatic Generation of Different Scenarios:**
 
 **Importance:** Enhanced Experimental Variation: Automatically generating different scenarios diversifies experimental conditions, enabling researchers to explore a wider spectrum of strategic interactions. This variation is essential for testing the robustness of theoretical models and uncovering subtle behavioral patterns that may arise under different circumstances. By automating scenario generation, researchers can efficiently explore a multitude of experimental conditions, enriching the depth and breadth of their analyses.
 
-3: Enhanced User-Friendly UI with Visual Illustrations:
+**3: Enhanced User-Friendly UI with Visual Illustrations:**
 
 **Importance:** Improved Participant Engagement and Comprehension: A user-friendly UI with visual illustrations enhances participant engagement and comprehension, reducing potential confounds introduced by misunderstandings or misinterpretations of experimental instructions. Clear visual representations of game scenarios promote active participation and reduce cognitive load, ensuring that participants can focus on strategic decision-making. By enhancing the quality of participant data, Stratify Pro enables more accurate and reliable insights into human behavior in strategic interactions.
 
