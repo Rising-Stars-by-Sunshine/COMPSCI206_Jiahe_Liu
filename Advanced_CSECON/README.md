@@ -22,6 +22,8 @@ I will develop software based on oTree with the following modifications to impro
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b993b635-751d-44b7-978b-c018696c7f20)
 
+---
+
 ## Question 2:
 
 The environment constraints in MARL involve the difficulty in simulating realistic interactions between agents. In Connect Four, while the environment is static and predictable, simulating a diverse range of opponent strategies can be challenging. MARL frameworks need to encompass not just the mechanics of the game board, but also the potentially complex strategies and counterstrategies that evolve as part of learning. Each agent’s move alters the state of the environment, leading to a combinatorial explosion of possible states, which can be computationally expensive to handle and learn from. In terms of algorithm customization, agents in MARL frameworks must be adaptive to the strategies of others while also improving their play. Yet, most MARL algorithms struggle with non-stationarity, where the behavior of one agent changes the environment, thereby affecting the learning process of the other. To illustrate, in Connect Four, if one agent begins to favor a new column as a starting move, this changes the expected game progression, thus requiring the other agent to adapt. Customizing algorithms that can efficiently manage this non-stationarity remains a significant hurdle. As the endgame shows below, the agent seems to be focusing on its success while ignoring the opponent’s strategy of winning, thus failing to make the best move to prevent potential failure.
@@ -31,6 +33,8 @@ The environment constraints in MARL involve the difficulty in simulating realist
 The development process of a MARL agent for Connect Four would first involve defining the game states. These include every possible combination of tokens on the 7x6 grid board, which are vast but finite. Actions for an agent are relatively straightforward: placing a token in one of the seven columns, as long as it is not already full. In implementing MARL for Connect Four, designers program agents to observe the environment (game board), perform actions (place tokens), and receive rewards (win/lose feedback). Learning progresses through multiple games where agents adapt their strategy to maximize their long-term reward, which, in simple terms, translates to increasing their chances of winning the game.
 
 To overcome existing MARL limitations, research is directed towards creating more scalable algorithms capable of managing complex state-action spaces like those in Connect Four. Techniques such as function approximation, hierarchical reinforcement learning, and transfer learning are explored to tackle the non-stationarity and to allow agents to generalize their knowledge to new, unseen states effectively. Furthermore, while playing against a diverse set of strategies can be computationally intensive, employing parallel computing and distributed systems enables more extensive and varied training, leading to robust agents. Moreover, customized rewards shaping can incentivize agents to explore the state space more efficiently and learn the desired strategies. Continuous or intermediate rewards, instead of just a final win/lose outcome, can provide richer learning signals for agents, leading to improved performance.
+
+---
 
 ## Question 3:
 
@@ -46,6 +50,8 @@ To overcome existing MARL limitations, research is directed towards creating mor
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/aa1747ff-e2bc-4936-a79d-a33d6e0a4773)
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/237944c4-b02d-4d83-9d72-a8be5c53e77e)
+
+---
 
 **Bibliography**
 
