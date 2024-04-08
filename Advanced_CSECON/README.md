@@ -2,6 +2,8 @@
 
 Data analysis is stressed in experimental economics. For behavioral game research, large amounts of data under different scenarios are often collected (Croson, 2005). As a platform for several players to do small scale experiments, oTree needs the researchers to manually modify the scenarios to exhaust the possibilities, and the experiment can only be held among one group of participants at a time. Also, the UI is too simple and plain. Answering questions with no incentivizing image illustration might be dull for participants. Below is a demo of my trust game, which has no illustrations and can only be conducted one at a time.
 
+![2_1](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/eb1468ec-bdc3-44cf-afc0-9206063691bc)
+
 I will develop software based on oTree with the following modifications to improve it:
 
 **1: Supporting Multiple Sessions Simultaneously:**
@@ -15,8 +17,6 @@ I will develop software based on oTree with the following modifications to impro
 **3: Enhanced User-Friendly UI with Visual Illustrations:**
 
 **Importance:** Improved Participant Engagement and Comprehension: A user-friendly UI with visual illustrations enhances participant engagement and comprehension, reducing potential confounds introduced by misunderstandings or misinterpretations of experimental instructions. Clear visual representations of game scenarios promote active participation and reduce cognitive load, ensuring that participants can focus on strategic decision-making. By enhancing the quality of participant data, Stratify Pro enables more accurate and reliable insights into human behavior in strategic interactions.
-
-![2_1](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/eb1468ec-bdc3-44cf-afc0-9206063691bc)
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b993b635-751d-44b7-978b-c018696c7f20)
 
@@ -41,3 +41,10 @@ To overcome existing MARL limitations, research is directed towards creating mor
 4. The paper's application scenarios are relevant but may benefit from exploring more modern contexts. For instance, integrating federated learning with blockchain can enhance data privacy and security. Additionally, exploring generative AI and federated learning could enable collaborative model training while preserving data privacy. Finally, investigating federated learning in quantum computing environments could leverage quantum-enhanced algorithms for more efficient and secure model training. These modern scenarios offer promising avenues for extending federated learning research to address evolving challenges in data privacy, security, and computational efficiency.
 
 5. Generally, I believe AI is more rational than human in making decisions. Involving AI participants means less uncertainty for the research. AI agents are more rational with fewer personal feelings, and they often have a more comprehensive understanding of the research scenario. Therefore, they are more willing to do full participation. Here’s the mini-ex
+
+![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/aa1747ff-e2bc-4936-a79d-a33d6e0a4773)
+![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/237944c4-b02d-4d83-9d72-a8be5c53e77e)
+
+**Bibliography**
+Croson, Rachel. "The Method of Experimental Economics", International Negotiation 10, 1 (2005): 131-148, doi: https://doi.org/10.1163/1571806054741100
+Luo, Bing, Yutong Feng, Shiqiang Wang, Jianwei Huang, and Leandros Tassiulas. 2023. “Incentive Mechanism Design for Unbiased Federated Learning with Randomized Client Participation.” ArXiv (Cornell University), April. https://doi.org/10.48550/arxiv.2304.07981.
