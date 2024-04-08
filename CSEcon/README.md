@@ -18,6 +18,8 @@ On one hand, blockchain technology enables decentralized networks where transact
 
 Learning from all the above, I look forward to more computational technologies being applied in economics for a better tomorrow.
 
+![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/4e277646-57b3-4e84-948a-4e86622d26a7)
+
 ---
 
 ### **Beyond CS & Econ**
@@ -25,6 +27,8 @@ Learning from all the above, I look forward to more computational technologies b
 When humans are using AI agents for decision-making, transparency might be challenging in evaluating their reliability. Generally speaking, although AI might be more rational than humans, according to Chen et. al (2023), the ability of AI is limited. According to Fan et. al (2023), LLMs fail to catch uncommon preferences and may not accurately apply refined beliefs when taking action. Zhou et. al (2024) expressed similar concerns, stating that LLM cannot grasp market intricacies and has intrinsic bias. AI may also fail to consider human psychology and some other factors when involved in activities. Thus, the adaptation of AI decisions should be under human supervision. However, AI decision-making is not transparent, which makes it challenging for a human to evaluate their results. This requires the AI agents to be frequently tested and evaluated to ensure their stability and efficiency.
 
 AI agents might have inherent strength in dealing with collective optimizing problems. Although most of the time we want AI to work out the best solution under bounded rationality of individual benefit, whether AI focuses on individual or collective interest depends on the demand of humans. According to Horton (2023), AI knows well how humans act based on bounded rationality, and according to Chen (2023) it would do even better, so it has a natural advantage when considering participants as a whole to promote fairness and collective interest because of its computational power.
+
+![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/2bc659fb-c86e-4b81-9cc3-31e8e4986a52)
 
 ---
 
