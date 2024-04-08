@@ -46,5 +46,7 @@ To overcome existing MARL limitations, research is directed towards creating mor
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/237944c4-b02d-4d83-9d72-a8be5c53e77e)
 
 **Bibliography**
+
 Croson, Rachel. "The Method of Experimental Economics", International Negotiation 10, 1 (2005): 131-148, doi: https://doi.org/10.1163/1571806054741100
+
 Luo, Bing, Yutong Feng, Shiqiang Wang, Jianwei Huang, and Leandros Tassiulas. 2023. “Incentive Mechanism Design for Unbiased Federated Learning with Randomized Client Participation.” ArXiv (Cornell University), April. https://doi.org/10.48550/arxiv.2304.07981.
