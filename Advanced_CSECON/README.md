@@ -1,3 +1,5 @@
+# Reflection on Milestone 2
+
 ## Question 1:
 
 Data analysis is stressed in experimental economics. For behavioral game research, large amounts of data under different scenarios are often collected (Croson, 2005). As a platform for several players to do small scale experiments, oTree needs the researchers to manually modify the scenarios to exhaust the possibilities, and the experiment can only be held among one group of participants at a time. Also, the UI is too simple and plain. Answering questions with no incentivizing image illustration might be dull for participants. Below is a demo of my trust game, which has no illustrations and can only be conducted one at a time.
