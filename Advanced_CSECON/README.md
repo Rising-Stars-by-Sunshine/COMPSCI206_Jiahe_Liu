@@ -16,7 +16,7 @@ I will develop software based on oTree with the following modifications to impro
 
 **Importance:** Improved Participant Engagement and Comprehension: A user-friendly UI with visual illustrations enhances participant engagement and comprehension, reducing potential confounds introduced by misunderstandings or misinterpretations of experimental instructions. Clear visual representations of game scenarios promote active participation and reduce cognitive load, ensuring that participants can focus on strategic decision-making. By enhancing the quality of participant data, Stratify Pro enables more accurate and reliable insights into human behavior in strategic interactions.
 
-![Demo Image](demo_image.png) *Image: Demo of the trust game.*
+![2_1](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/eb1468ec-bdc3-44cf-afc0-9206063691bc)
 
 ## Question 2:
 
