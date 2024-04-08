@@ -1,4 +1,4 @@
-# Reflection on Computer Science, Economics, and AI
+# Reflection on Milestone 1
 
 ### **When computer science meets economics**
 
