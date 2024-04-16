@@ -49,5 +49,7 @@ AI agents might have inherent strength in dealing with collective optimizing pro
 - Zhou, Yuhang, Yuchen Ni, Xiang Liu, Jian Zhang, Sen Liu, Guangnan Ye, and Hongfeng Chai. 2024. “Are Large Language Models Rational Investors?” ArXiv.org. February 19, 2024. [https://doi.org/10.48550/arXiv.2402.12713](https://doi.org/10.48550/arXiv.2402.12713).
 
 ![grammarly](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/c4332d68-4f4d-473e-9d17-037622eec3db)
+(Fig. 4. Grammarly report)
 
 ![turnitin](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/197e9ed2-0873-4b50-ae81-f347b625bff2)
+(Fig. 5. Turnitin report)
