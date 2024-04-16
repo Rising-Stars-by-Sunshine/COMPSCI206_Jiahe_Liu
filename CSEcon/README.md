@@ -8,6 +8,8 @@ What I might do is design an algorithm that provides a regulation method that el
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/7add1e26-d07b-457e-ba27-b3f157ed2b9d)
 
+(Fig. 1. Mindmap for answer to Question 1)
+
 ---
 
 ### **CS & Econ for a Better Future**
@@ -20,6 +22,8 @@ Learning from all the above, I look forward to more computational technologies b
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/4e277646-57b3-4e84-948a-4e86622d26a7)
 
+(Fig. 2. Mindmap for answer to Question 2)
+
 ---
 
 ### **Beyond CS & Econ**
@@ -29,6 +33,8 @@ When humans are using AI agents for decision-making, transparency might be chall
 AI agents might have inherent strength in dealing with collective optimizing problems. Although most of the time we want AI to work out the best solution under bounded rationality of individual benefit, whether AI focuses on individual or collective interest depends on the demand of humans. According to Horton (2023), AI knows well how humans act based on bounded rationality, and according to Chen (2023) it would do even better, so it has a natural advantage when considering participants as a whole to promote fairness and collective interest because of its computational power.
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/2bc659fb-c86e-4b81-9cc3-31e8e4986a52)
+
+(Fig. 3. Mindmap for answer to Question 3)
 
 ---
 
