@@ -2,9 +2,11 @@
 
 ## Question 1:
 
-Data analysis is stressed in experimental economics. For behavioral game research, large amounts of data under different scenarios are often collected (Croson, 2005). As a platform for several players to do small scale experiments, oTree needs the researchers to manually modify the scenarios to exhaust the possibilities, and the experiment can only be held among one group of participants at a time. Also, the UI is too simple and plain. Answering questions with no incentivizing image illustration might be dull for participants. Below is a demo of my trust game, which has no illustrations and can only be conducted one at a time.
+Data analysis is stressed in experimental economics. For behavioral game research, large amounts of data under different scenarios are often collected (Croson, 2005). As a platform for several players to do small scale experiments, oTree needs the researchers to manually modify the scenarios to exhaust the possibilities, and the experiment can only be held among one group of participants at a time. Also, the UI is too simple and plain. Answering questions with no incentivizing image illustration might be dull for participants. Fig. 1 below is a demo of my trust game, which has no illustrations and can only be conducted one at a time.
 
 ![2_1](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/eb1468ec-bdc3-44cf-afc0-9206063691bc)
+
+(Fig. 1. Trust game demo on oTree)
 
 I will develop software based on oTree with the following modifications to improve it:
 
@@ -22,13 +24,17 @@ I will develop software based on oTree with the following modifications to impro
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b993b635-751d-44b7-978b-c018696c7f20)
 
+(Fig. 2. Mindmap for oTree advanced proposal)
+
 ---
 
 ## Question 2:
 
-The environment constraints in MARL involve the difficulty in simulating realistic interactions between agents. In Connect Four, while the environment is static and predictable, simulating a diverse range of opponent strategies can be challenging. MARL frameworks need to encompass not just the mechanics of the game board, but also the potentially complex strategies and counterstrategies that evolve as part of learning. Each agent’s move alters the state of the environment, leading to a combinatorial explosion of possible states, which can be computationally expensive to handle and learn from. In terms of algorithm customization, agents in MARL frameworks must be adaptive to the strategies of others while also improving their play. Yet, most MARL algorithms struggle with non-stationarity, where the behavior of one agent changes the environment, thereby affecting the learning process of the other. To illustrate, in Connect Four, if one agent begins to favor a new column as a starting move, this changes the expected game progression, thus requiring the other agent to adapt. Customizing algorithms that can efficiently manage this non-stationarity remains a significant hurdle. As the endgame shows below, the agent seems to be focusing on its success while ignoring the opponent’s strategy of winning, thus failing to make the best move to prevent potential failure.
+The environment constraints in MARL involve the difficulty in simulating realistic interactions between agents. In Connect Four, while the environment is static and predictable, simulating a diverse range of opponent strategies can be challenging. MARL frameworks need to encompass not just the mechanics of the game board, but also the potentially complex strategies and counterstrategies that evolve as part of learning. Each agent’s move alters the state of the environment, leading to a combinatorial explosion of possible states, which can be computationally expensive to handle and learn from. In terms of algorithm customization, agents in MARL frameworks must be adaptive to the strategies of others while also improving their play. Yet, most MARL algorithms struggle with non-stationarity, where the behavior of one agent changes the environment, thereby affecting the learning process of the other. To illustrate, in Connect Four, if one agent begins to favor a new column as a starting move, this changes the expected game progression, thus requiring the other agent to adapt. Customizing algorithms that can efficiently manage this non-stationarity remains a significant hurdle. As the endgame Fig. 3 shows below, the agent seems to be focusing on its success while ignoring the opponent’s strategy of winning, thus failing to make the best move to prevent potential failure.
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/8fc2c6ce-10d1-46c7-a65e-263a377c69f0)
+
+(Fig. 3. Endgame of Connect Four by petting zoo)
 
 The development process of a MARL agent for Connect Four would first involve defining the game states. These include every possible combination of tokens on the 7x6 grid board, which are vast but finite. Actions for an agent are relatively straightforward: placing a token in one of the seven columns, as long as it is not already full. In implementing MARL for Connect Four, designers program agents to observe the environment (game board), perform actions (place tokens), and receive rewards (win/lose feedback). Learning progresses through multiple games where agents adapt their strategy to maximize their long-term reward, which, in simple terms, translates to increasing their chances of winning the game.
 
@@ -46,10 +52,15 @@ To overcome existing MARL limitations, research is directed towards creating mor
 
 4. The paper's application scenarios are relevant but may benefit from exploring more modern contexts. For instance, integrating federated learning with blockchain can enhance data privacy and security. Additionally, exploring generative AI and federated learning could enable collaborative model training while preserving data privacy. Finally, investigating federated learning in quantum computing environments could leverage quantum-enhanced algorithms for more efficient and secure model training. These modern scenarios offer promising avenues for extending federated learning research to address evolving challenges in data privacy, security, and computational efficiency.
 
-5. Generally, I believe AI is more rational than human in making decisions. Involving AI participants means less uncertainty for the research. AI agents are more rational with fewer personal feelings, and they often have a more comprehensive understanding of the research scenario. Therefore, they are more willing to do full participation. Here’s the mini-ex
+5. Generally, I believe AI is more rational than human in making decisions. Involving AI participants means less uncertainty for the research. AI agents are more rational with fewer personal feelings, and they often have a more comprehensive understanding of the research scenario. Therefore, they are more willing to do full participation. Fig. 4 and Fig. 5 below shows the mini-experiment I conducted with ChatGPT, in which GPT expressed full willingness to participant and contribute its information.
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/aa1747ff-e2bc-4936-a79d-a33d6e0a4773)
+
+(Fig. 4. My experiment question)
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/237944c4-b02d-4d83-9d72-a8be5c53e77e)
+
+(Fig. 5. Answer from ChatGPT 3.5)
 
 ---
 
@@ -61,5 +72,8 @@ Luo, Bing, Yutong Feng, Shiqiang Wang, Jianwei Huang, and Leandros Tassiulas. 20
 
 ![grammarly](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/c0166a8e-5cc9-43ad-9d74-ed30a3997c55)
 
+(Fig. 6. Grammarly report)
+
 ![turnitin](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/ad8833a2-0b58-4361-9268-9cff67c26a18)
 
+(Fig. 7. Turnitin report)
