@@ -14,6 +14,8 @@ Explore effective titling strategies in our [guide](https://www.nature.com/artic
 
 Please provide an introduction to the content of this GitHub repository, bearing in mind that external viewers may not be familiar with the terms PS1, PS2, and the Final Project as used in our class. It is essential to include enough background information to bring outsiders up to speed. Additionally, include a flowchart that clearly outlines the logical progression and the interconnections between these assignments for a clearer understanding of the course structure.
 
+![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/c10fc184-1605-4c00-915c-4d448c9d917b)
+
 ## Table of Contents
 
 Could you provide a table of content with hyperlink to all the parts? 
