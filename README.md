@@ -12,7 +12,7 @@ Explore effective titling strategies in our [guide](https://www.nature.com/artic
 
 ### Introduction to the GitHub Repository
 
-Please provide an introduction to the content of this GitHub repository, bearing in mind that external viewers may not be familiar with the terms PS1, PS2, and the Final Project as used in our class. It is essential to include enough background information to bring outsiders up to speed. Additionally, include a flowchart that clearly outlines the logical progression and the interconnections between these assignments for a clearer understanding of the course structure.
+This repository covers all assignments of the course: Computational Microeconomics. It explores the frontier research topics in computational microeconomics. The directory CSECON discusses the future of computational economics at the interplay of human, AI, and computational technology. Advanced CSECON analyses the drawbacks of some computational tools for game theory experiments and critiques existing research on federated learning. The directory proposal presents a comparative analysis of gaming behavior of generative AI and reinforcement learning models based on the existing research gap.
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/c10fc184-1605-4c00-915c-4d448c9d917b)
 
