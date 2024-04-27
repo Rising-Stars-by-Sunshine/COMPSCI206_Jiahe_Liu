@@ -1,7 +1,6 @@
 # CSECON206_Spring2024
 
-## How to Choose a Good Title? 
-Explore effective titling strategies in our [guide](https://www.nature.com/articles/s41562-021-01152-2).
+## Comparative Analysis of Generative AI and Reinforcement Learning Models on Strategic Play in the Centipede Game
 
 ## Project Information
 - **Author**: Jiahe Liu, Majoring in Computation and Design / Computer Science, Class of 2026, Duke Kunshan University
@@ -18,14 +17,16 @@ This repository covers all assignments of the course: Computational Microeconomi
 
 ## Table of Contents
 
-Could you provide a table of content with hyperlink to all the parts? 
-
 [CSEcon](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/blob/7fafd0904299a6fd1172ec06d7989dc214e90e96/CSEcon/README.md)
 
 [Advanced_CSECON](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/blob/123f7499de722d0acb2780758104dc9904c3a78e/Advanced_CSECON/README.md)
 
+[Proposal](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/tree/9cfb2238868366cf18f261c810f779a8201a1e50/Proposal)
+
 ## More About the Author
+
 ![7](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b5848067-949b-404a-8777-80a0071e0249)
+
 - **Self-Introduction**:
 
 <h1 align="center">Hi there 👋, I'm Jiahe Liu</h1>
