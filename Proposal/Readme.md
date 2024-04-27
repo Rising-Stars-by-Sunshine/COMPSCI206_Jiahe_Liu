@@ -1,26 +1,42 @@
-# CSECON206_Spring2024
-
-## How to Choose a Good Title? 
-Explore effective titling strategies in our [guide](https://www.nature.com/articles/s41562-021-01152-2).
-
-## Project Information
-- **Author**: [First Name] [Last Name], Majoring in [Major], Class of [Year], Duke Kunshan University
-- **Instructor**: Professor Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: This is a submission for the Final Project in [COMSCI/ECON 206 Computational Microeconomics](https://ms.pubpub.org/), Spring 2024 Term (Seven Week - Fourth), taught by Professor Luyao Zhang at Duke Kunshan University.
-- **Acknowledgements**: [Guidelines for Acknowledgements](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-  [Note: When writing acknowledgments for a research paper, please start by thanking your instructor and supervisor for their guidance. Then, thank your colleagues for their support and your classmates for their engaging discussions and input. Conclude with a note of appreciation for friends and family who encouraged you throughout your research endeavor. This sequence ensures gratitude is shown to professional and personal supporters who have contributed to your academic journey.]
-
-### Introduction to the GitHub Repository
-
-Please provide an introduction to the content of this GitHub repository, bearing in mind that external viewers may not be familiar with the terms PS1, PS2, and the Final Project as used in our class. It is essential to include enough background information to bring outsiders up to speed. Additionally, include a flowchart that clearly outlines the logical progression and the interconnections between these assignments for a clearer understanding of the course structure.
-
-## Table of Contents
-Could you provide a table of content with hyperlink to all the parts? 
-
-## More About the Author
-![Headshot](url-to-headshot-image)
-- **Self-Introduction**: A brief biography highlighting academic and personal interests.
-- **Final Reflections**: 
-  - **Intellectual Growth**: Insights and knowledge acquired.
-  - **Professional Growth**: Skills developed and career aspirations.
-  - **Living a Purposeful Life**: Personal achievements and future goals.
+§ Your research poster.  
+§ URL to your shared view overleaf 
+§ Under the Latex folder, provide the downloaded zip file of your overleaf. 
+§ Under the Colab folder, provide the Google Colab using game theory analytical tools to 
+solve for at least the benchmark of your games.  
+§ The following research description in sections and bullet points in the format of Q&A, 
+envisioning that you are being interviewed at the awarding ceremony of Nobel Prize or 
+Turing Awards for your research. Please apply the rules of formal academic writing.  
+o [Summarize the Background/Motivation] 
+§ What are the gaps between the existing literature and the pressing social 
+and economic issues in the digital economy of complex system involving 
+both human and AI agent that inspires your research? 
+o [Research Questions] 
+§ What are the questions that your research intends to answer? 
+§ Why are the questions important? 
+§ Why are the questions not answered by existing game theory literature? 
+o [Application Scenario] 
+§ In which real-world situation does your newly proposed game and/or 
+solution concept or mechanism apply? 
+§ What is the literature in other discipline such as psychology that could 
+provide a behavioral foundation of your newly proposed game and/or 
+solution concept, or mechanism?  
+o [Methodology]  
+§ What is the key game theoretical or mechanism design framework that 
+you build upon? 
+§ What is the key computational or analytical tools that you apply to answer 
+your requestion question? 
+§ What is the advanced technology or interdisciplinary insights that you 
+integrate into the existing methods that smartly solve your research 
+question?  
+o [Preliminary Results]  
+§ Can you provide a concrete illustration example of game theory or 
+mechanism design that your approach significantly improves at least one 
+objective of human welfare compared to existing research without your 
+approach?  
+o [Intellectual Merits and Practical impacts of your project.] 
+§ Can you demonstrate the limitation of your current research that would 
+inspire future research? For example, what are the other important 
+objectives of human welfare that you approach does not consider yet?  
+§ Can you elaborate on how your research can be applied to improve 
+individual, company, and government decisions in strategic scenarios or 
+social choice issues? 
