@@ -18,9 +18,37 @@ Please provide an introduction to the content of this GitHub repository, bearing
 Could you provide a table of content with hyperlink to all the parts? 
 
 ## More About the Author
-![Headshot](url-to-headshot-image)
-- **Self-Introduction**: A brief biography highlighting academic and personal interests.
+![7](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b5848067-949b-404a-8777-80a0071e0249)
+- **Self-Introduction**:
+
+<h1 align="center">Hi there 👋, I'm Jiahe Liu</h1>
+
+<h3 align="center">A Passionate Sophomore in Computer Science 🚀</h3>
+
+<p align="center">
+  <a href="https://github.com/Ritazwonderland">
+    <img src="https://img.shields.io/github/followers/Ritazwonderland?label=Follow&style=social">
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me:
+I'm Jiahe Liu, a Computer Science sophomore with a knack for problem-solving and an enthusiast of technology and innovation. As an INTP, I thrive in logical analysis and enjoy taking an exploratory and theoretical approach to my studies.
+
+### 🎓 Education:
+- Sophomore studying Computer Science @DKU
+- Currently diving deep into the realms of Python, Java, HTML, and CSS
+
+### 💡 Technical Skills:
+
+```python
+languages = ["Python", "Java", "HTML", "CSS"]
+```
+
 - **Final Reflections**: 
   - **Intellectual Growth**: Insights and knowledge acquired.
-  - **Professional Growth**: Skills developed and career aspirations.
-  - **Living a Purposeful Life**: Personal achievements and future goals.
+
+[CSEcon](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/blob/7fafd0904299a6fd1172ec06d7989dc214e90e96/CSEcon/README.md)
+
+[Advanced_CSECON](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/blob/123f7499de722d0acb2780758104dc9904c3a78e/Advanced_CSECON/README.md)
