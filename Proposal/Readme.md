@@ -60,3 +60,5 @@
 *Can you elaborate on how your research can be applied to improve individual, company, and government decisions in strategic scenarios or social choice issues?*
 
 - By providing policymakers, businesses, and individuals with a deeper understanding of human-AI interactions, my research enables more informed decision-making and the development of policies and systems that promote fairness, efficiency, and societal welfare in the digital economy.
+
+![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b3393444-2217-44f3-bab0-d1c193e5bfd9)
