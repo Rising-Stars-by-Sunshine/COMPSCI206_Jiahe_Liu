@@ -1,8 +1,7 @@
 1. Your research poster.
-2. URL to your shared view overleaf 
+2. [URL to my shared view overleaf ](https://www.overleaf.com/read/xqmhntdkcsjb#0b18c9)
 3. Under the Latex folder, provide the downloaded zip file of your overleaf. 
-4. Under the Colab folder, provide the Google Colab using game theory analytical tools to solve for at least the benchmark of your games.
-5. The following research description in sections and bullet points in the format of Q&A, envisioning that you are being interviewed at the awarding ceremony of Nobel Prize or Turing Awards for your research. Please apply the rules of formal academic writing.  
+4. The following research description in sections and bullet points in the format of Q&A, envisioning that you are being interviewed at the awarding ceremony of Nobel Prize or Turing Awards for your research. Please apply the rules of formal academic writing.  
 o [Summarize the Background/Motivation] 
 § What are the gaps between the existing literature and the pressing social and economic issues in the digital economy of complex system involving 
 both human and AI agent that inspires your research? 
