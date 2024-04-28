@@ -11,8 +11,6 @@ The gap between existing literature and pressing social and economic issues in t
 
 *What are the questions that your research intends to answer?*
 
-My research intends to answer:
-
 - How do interactions between human and AI agents in strategic scenarios affect overall system performance and individual welfare?
 - What are the behavioral and decision-making dynamics that emerge when humans interact with AI agents in strategic settings?
 
