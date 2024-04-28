@@ -2,6 +2,8 @@
 2. [URL to my shared view overleaf ](https://www.overleaf.com/read/xqmhntdkcsjb#0b18c9)
 3. Under the Latex folder, provide the downloaded zip file of your overleaf. 
 
+![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/a36a79c5-e9f2-4e0c-af3b-6cf458cf4e64)
+
 ## Summarize the Background/Motivation
 
 - The gap between existing literature and pressing social and economic issues in the digital economy arises from the complexities of interactions between humans and AI agents. This inspires my research to address how AI decision-making impacts human behavior and vice versa in strategic scenarios.
@@ -60,5 +62,11 @@
 *Can you elaborate on how your research can be applied to improve individual, company, and government decisions in strategic scenarios or social choice issues?*
 
 - By providing policymakers, businesses, and individuals with a deeper understanding of human-AI interactions, my research enables more informed decision-making and the development of policies and systems that promote fairness, efficiency, and societal welfare in the digital economy.
+
+**Bibliography**
+
+Nass, C., & Reeves, B. (1996). The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places. Cambridge University Press.
+
+Acquisti, A., & Grossklags, J. (2005). Privacy and rationality in individual decision making. IEEE Security & Privacy, 3(1), 26-33.
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b3393444-2217-44f3-bab0-d1c193e5bfd9)
