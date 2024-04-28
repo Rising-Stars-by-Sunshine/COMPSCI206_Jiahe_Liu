@@ -53,7 +53,7 @@
 
 ## Intellectual Merits and Practical Impacts of Your Project
 
-*Can you demonstrate the limitation of your current research that would inspire future research?*
+*Can you demonstrate the limitations of your current research that would inspire future research?*
 
 - My research may not fully capture the ethical considerations and social implications of AI adoption in strategic settings, and it may not address all objectives of human welfare, such as equity and sustainability.
 
