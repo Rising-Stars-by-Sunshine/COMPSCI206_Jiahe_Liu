@@ -1,4 +1,4 @@
-research poster
+![CSECON206FinalProj](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/e135260d-a3bc-4190-9105-206c51428b5d)
 
 [URL to my shared view overleaf ](https://www.overleaf.com/read/xqmhntdkcsjb#0b18c9)
 
