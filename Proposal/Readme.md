@@ -1,6 +1,6 @@
-1. Your research poster.
-2. [URL to my shared view overleaf ](https://www.overleaf.com/read/xqmhntdkcsjb#0b18c9)
-3. Under the Latex folder, provide the downloaded zip file of your overleaf. 
+research poster
+
+[URL to my shared view overleaf ](https://www.overleaf.com/read/xqmhntdkcsjb#0b18c9)
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/a36a79c5-e9f2-4e0c-af3b-6cf458cf4e64)
 
