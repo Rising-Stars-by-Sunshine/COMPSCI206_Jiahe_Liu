@@ -1,7 +1,6 @@
 1. Your research poster.
 2. [URL to my shared view overleaf ](https://www.overleaf.com/read/xqmhntdkcsjb#0b18c9)
 3. Under the Latex folder, provide the downloaded zip file of your overleaf. 
-4. The following research description in sections and bullet points in the format of Q&A, envisioning that you are being interviewed at the awarding ceremony of Nobel Prize or Turing Awards for your research. Please apply the rules of formal academic writing.  
 
 ## Summarize the Background/Motivation
 
