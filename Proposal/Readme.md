@@ -25,7 +25,11 @@
 
 *In which real-world situation does your newly proposed game and/or solution concept or mechanism apply?*
 
+- My proposed research applies to various real-world situations where strategic decision-making is crucial. One example is in the field of economics, where understanding how different agents interact and make decisions can inform policy interventions aimed at improving market efficiency, resource allocation, and overall economic welfare. Additionally, this research can be applied in negotiation settings, conflict resolution processes, and strategic planning in business, politics, and international relations, where insights into human and AI decision-making dynamics are essential for achieving desirable outcomes.
+
 *What is the literature in another discipline such as psychology that could provide a behavioral foundation for your newly proposed game and/or solution concept, or mechanism?*
+
+- The literature in psychology provides a behavioral foundation for understanding human responses to AI agents. Studies on human-computer interaction, trust in automation, and decision-making in uncertain environments offer valuable insights into how individuals perceive and interact with AI agents. For instance, research by Nass and Reeves (1996) on the media equation theory suggests that individuals tend to apply social rules and expectations to interactions with computers and AI agents, shaping their trust and reliance on these systems. Additionally, work by Acquisti and Grossklags (2005) highlights the role of privacy concerns and perceived control in users' acceptance of AI-driven recommendations and decisions, further informing our understanding of human-AI interactions in online environments.
 
 ## Methodology
 
@@ -44,6 +48,8 @@
 ## Preliminary Results
 
 *Can you provide a concrete illustration example of game theory or mechanism design that your approach significantly improves at least one objective of human welfare compared to existing research without your approach?*
+
+- In the context of the Centipede Game, my research compares the performance of generative AI and reinforcement learning models in predicting player behavior. By analyzing simulated game scenarios, we found that the generative AI model outperforms reinforcement learning in capturing complex strategic interactions and predicting decision-making processes. This improvement leads to a deeper understanding of player behavior and more accurate predictions of game outcomes, thereby enhancing decision-making in strategic settings.
 
 ## Intellectual Merits and Practical Impacts of Your Project
 
