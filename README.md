@@ -17,6 +17,8 @@ This repository covers all assignments of the course: Computational Microeconomi
 
 ## Table of Contents
 
+[Problem set 1](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu.git)
+
 [CSEcon](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/blob/7fafd0904299a6fd1172ec06d7989dc214e90e96/CSEcon/README.md)
 
 [Advanced_CSECON](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/blob/123f7499de722d0acb2780758104dc9904c3a78e/Advanced_CSECON/README.md)
