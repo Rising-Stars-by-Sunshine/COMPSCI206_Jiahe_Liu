@@ -1,7 +1,8 @@
 # Comparative Analysis of Generative AI and Reinforcement Learning Models on Strategic Play in the Centipede Game
 
-
+![poster](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/a631096d-399c-4bf8-b720-ac7b494e26a4)
 **Fig. 1. Research Poster**
+
 
 [URL to my shared view overleaf ](https://www.overleaf.com/read/xqmhntdkcsjb#0b18c9)
 
