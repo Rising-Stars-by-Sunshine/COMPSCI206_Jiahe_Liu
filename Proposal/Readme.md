@@ -55,7 +55,7 @@
 
 *Can you provide a concrete illustration example of game theory or mechanism design that your approach significantly improves at least one objective of human welfare compared to existing research without your approach?*
 
-- In the context of the Centipede Game, my research compares the performance of generative AI ChatGPT 4.0 and Q learning model in the centipede game. By analyzing simulated game scenarios, we found that ChatGPT 4.0 outperforms Q learning in capturing complex strategic interactions and predicting decision-making processes. This improvement leads to a deeper understanding of player behavior and more accurate predictions of game outcomes, thereby enhancing decision-making in strategic settings.
+- In the context of the Centipede Game, my research compares the performance of generative AI ChatGPT 4.0 and Q learning model in the centipede game. By analyzing simulated game scenarios, we found that ChatGPT 4.0 outperforms Q learning in capturing complex strategic interactions and predicting decision-making processes. This improvement leads to a deeper understanding of player behavior and more accurate predictions of game outcomes, thereby enhancing decision-making in strategic settings. Below are the screenshot of my experiment with GPT 4, and the colab link to my Q learning model.
 
 ![gpt question](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/747b082c-c006-4797-b9dc-93c527ed7179)
 **Fig. 3. Question for GPT**
@@ -63,6 +63,11 @@
 
 ![gpt answer](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/a21a69cb-913f-42d4-8609-dcf60c32c860)
 **Fig. 4. Answer from GPT**
+
+![q learning result](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/6fc8455a-4723-43ae-9f17-a3c28610e360)
+**Fig. 5. Q learning result**
+
+[Colab](https://colab.research.google.com/drive/1wFoMbtwd9U5mJ26s0nzbOXEsWmb_vU7P?usp=sharing)
 
 
 ## Intellectual Merits and Practical Impacts of Your Project
@@ -85,4 +90,4 @@ Nass, C., & Reeves, B. (1996). The Media Equation: How People Treat Computers, T
 
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b3393444-2217-44f3-bab0-d1c193e5bfd9)
-**Fig. 5. Grammarly test**
+**Fig. 6. Grammarly test**
