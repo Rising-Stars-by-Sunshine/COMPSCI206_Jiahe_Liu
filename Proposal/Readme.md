@@ -1,3 +1,5 @@
+# Comparative Analysis of Generative AI and Reinforcement Learning Models on Strategic Play in the Centipede Game
+
 
 **Fig. 1. Research Poster**
 
