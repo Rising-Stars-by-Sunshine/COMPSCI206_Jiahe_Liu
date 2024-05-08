@@ -41,7 +41,7 @@
 
 *What are the key computational or analytical tools that you apply to answer your research question?*
 
-- I applied reinforcement learning models and AI agents, which are the objects in my research. The reinforcement learning model will focus on getting more rewards, while generative AI, specifically ChatGPT 4.0, will consider human factors like trust. Understanding how different agents interact and make decisions can inform policy interventions aimed at improving market efficiency, resource allocation, and overall economic welfare. Additionally, this research can be applied in negotiation settings, conflict resolution processes, and strategic planning in business, politics, and international relations, where insights into human and AI decision-making dynamics are essential for achieving desirable outcomes.
+- I applied reinforcement learning models and AI agents, which are the objects in my research. My reinforcement learning model, which is based on Q learning, will focus on getting more rewards, while generative AI, specifically ChatGPT 4.0, will consider human factors like trust. Understanding how different agents interact and make decisions can inform policy interventions aimed at improving market efficiency, resource allocation, and overall economic welfare. Additionally, this research can be applied in negotiation settings, conflict resolution processes, and strategic planning in business, politics, and international relations, where insights into human and AI decision-making dynamics are essential for achieving desirable outcomes.
 
 *What is the advanced technology or interdisciplinary insights that you integrate into the existing methods that smartly solve your research question?*
 
@@ -51,9 +51,13 @@
 
 *Can you provide a concrete illustration example of game theory or mechanism design that your approach significantly improves at least one objective of human welfare compared to existing research without your approach?*
 
-- In the context of the Centipede Game, my research compares the performance of generative AI ChatGPT 4.0 and reinforcement learning models in the centipede game. By analyzing simulated game scenarios, we found that ChatGPT 4.0 outperforms reinforcement learning in capturing complex strategic interactions and predicting decision-making processes. This improvement leads to a deeper understanding of player behavior and more accurate predictions of game outcomes, thereby enhancing decision-making in strategic settings.
+- In the context of the Centipede Game, my research compares the performance of generative AI ChatGPT 4.0 and Q learning model in the centipede game. By analyzing simulated game scenarios, we found that ChatGPT 4.0 outperforms Q learning in capturing complex strategic interactions and predicting decision-making processes. This improvement leads to a deeper understanding of player behavior and more accurate predictions of game outcomes, thereby enhancing decision-making in strategic settings.
 
-/image of experiment results
+![gpt question](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/747b082c-c006-4797-b9dc-93c527ed7179)
+Fig. 1. Question for GPT
+
+![gpt answer](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/a21a69cb-913f-42d4-8609-dcf60c32c860)
+Fig. 2. Answer from GPT
 
 ## Intellectual Merits and Practical Impacts of Your Project
 
