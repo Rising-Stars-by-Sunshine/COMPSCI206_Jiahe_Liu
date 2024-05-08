@@ -74,7 +74,7 @@
 
 *Can you demonstrate the limitations of your current research that would inspire future research?*
 
-- My research may not fully capture the ethical considerations and social implications of AI adoption in strategic settings, and it may not address all objectives of human welfare, such as equity and sustainability.
+- My model and experiment might not be an accurate description of the real world strategic contexts. Future research could focus on refining the reinforcement learning model to adapt to dynamic strategic scenarios. Besides, my research only reveals some behavioral patterns of different agents. Researchers could also apply the patterns and explore the possibilities in building trust and effective contracts between different computational agents and human.
 
 *Can you elaborate on how your research can be applied to improve individual, company, and government decisions in strategic scenarios or social choice issues?*
 
