@@ -1,4 +1,4 @@
-![CSECON206FinalProj](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/e135260d-a3bc-4190-9105-206c51428b5d)
+
 
 [URL to my shared view overleaf ](https://www.overleaf.com/read/xqmhntdkcsjb#0b18c9)
 
@@ -21,7 +21,7 @@
 
 *Why are the questions not answered by existing game theory literature?*
 
-- Existing game theory literature often overlooks the nuances introduced by AI agents' involvement and assumes rational, human-only decision-makers, failing to capture the complexities of human-AI interactions.
+- Traditional game theory often overlooks the nuances of human decision-making, assuming purely rational behavior. However, bounded rationality sometimes leads to worse outcome. Besides, previous research fail to identify the potential of computational agents, which will be increasingly frequently involved in strategic scenarios. For example, in Gamba and Regner's research (2019), they examinated how personal preference influences mistrust among human participant in Centipede game. My research would switch to observing the behavior of computational agents in this game, specifically reinforcement learning model and generative AI.
 
 ## Application Scenario
 
@@ -37,21 +37,23 @@
 
 *What is the key game theoretical or mechanism design framework that you build upon?*
 
-- My research builds upon key game theoretical frameworks, such as repeated games, signaling games, and mechanism design.
+- My research is built upon the classic centipede game, as is illustrated in the game tree in my poster. In this game, two players take turns deciding whether to continue or stop the game. Each time the game continues, the prize pot grows, but if one player decides to stop, the game ends, the prize is divided, and the one who chooses to stop gets more reward. By backward induction, players typically end the game immediately for the best outcome.
 
 *What are the key computational or analytical tools that you apply to answer your research question?*
 
-- I employ computational and analytical tools, including reinforcement learning algorithms, agent-based simulations, and economic experiments, to explore human-AI interactions and their implications.
+- I applied reinforcement learning models and AI agents, which are the objects in my research. The reinforcement learning model will focus on getting more rewards, while generative AI will consider human factors like trust. Understanding how different agents interact and make decisions can inform policy interventions aimed at improving market efficiency, resource allocation, and overall economic welfare. Additionally, this research can be applied in negotiation settings, conflict resolution processes, and strategic planning in business, politics, and international relations, where insights into human and AI decision-making dynamics are essential for achieving desirable outcomes.
 
 *What is the advanced technology or interdisciplinary insights that you integrate into the existing methods that smartly solve your research question?*
 
-- By integrating advanced technology and interdisciplinary insights, my approach bridges the gap between theoretical models and real-world complexities, providing practical solutions to complex strategic problems.
+- I intergrate the advanced computational technology with classic economic models to investigate the trust issue among AI agents and in human-AI interactions.
 
 ## Preliminary Results
 
 *Can you provide a concrete illustration example of game theory or mechanism design that your approach significantly improves at least one objective of human welfare compared to existing research without your approach?*
 
-- In the context of the Centipede Game, my research compares the performance of generative AI and reinforcement learning models in predicting player behavior. By analyzing simulated game scenarios, we found that the generative AI model outperforms reinforcement learning in capturing complex strategic interactions and predicting decision-making processes. This improvement leads to a deeper understanding of player behavior and more accurate predictions of game outcomes, thereby enhancing decision-making in strategic settings.
+- In the context of the Centipede Game, my research compares the performance of generative AI and reinforcement learning models in the centipede game. By analyzing simulated game scenarios, we found that the generative AI model outperforms reinforcement learning in capturing complex strategic interactions and predicting decision-making processes. This improvement leads to a deeper understanding of player behavior and more accurate predictions of game outcomes, thereby enhancing decision-making in strategic settings.
+
+/image of experiment results
 
 ## Intellectual Merits and Practical Impacts of Your Project
 
@@ -65,9 +67,10 @@
 
 **Bibliography**
 
-Nass, C., & Reeves, B. (1996). The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places. Cambridge University Press.
-
 Acquisti, A., & Grossklags, J. (2005). Privacy and rationality in individual decision making. IEEE Security & Privacy, 3(1), 26-33.
 
+Gamba, A., & Regner, T. (2019). Preferences-dependent learning in the centipede game: The persistence of mistrust. European Economic Review, 120, 103316. https://doi.org/10.1016/j.euroecorev.2019.103316.
+
+Nass, C., & Reeves, B. (1996). The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places. Cambridge University Press.
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b3393444-2217-44f3-bab0-d1c193e5bfd9)
