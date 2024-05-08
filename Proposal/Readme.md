@@ -1,8 +1,10 @@
 
+**Fig. 1. Research Poster**
 
 [URL to my shared view overleaf ](https://www.overleaf.com/read/xqmhntdkcsjb#0b18c9)
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/a36a79c5-e9f2-4e0c-af3b-6cf458cf4e64)
+**Fig. 2. Research Outline**
 
 ## Summarize the Background/Motivation
 
@@ -54,10 +56,12 @@
 - In the context of the Centipede Game, my research compares the performance of generative AI ChatGPT 4.0 and Q learning model in the centipede game. By analyzing simulated game scenarios, we found that ChatGPT 4.0 outperforms Q learning in capturing complex strategic interactions and predicting decision-making processes. This improvement leads to a deeper understanding of player behavior and more accurate predictions of game outcomes, thereby enhancing decision-making in strategic settings.
 
 ![gpt question](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/747b082c-c006-4797-b9dc-93c527ed7179)
-Fig. 1. Question for GPT
+**Fig. 3. Question for GPT**
+
 
 ![gpt answer](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/a21a69cb-913f-42d4-8609-dcf60c32c860)
-Fig. 2. Answer from GPT
+**Fig. 4. Answer from GPT**
+
 
 ## Intellectual Merits and Practical Impacts of Your Project
 
@@ -77,4 +81,6 @@ Gamba, A., & Regner, T. (2019). Preferences-dependent learning in the centipede 
 
 Nass, C., & Reeves, B. (1996). The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places. Cambridge University Press.
 
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/b3393444-2217-44f3-bab0-d1c193e5bfd9)
+**Fig. 5. Grammarly test**
